@@ -2,7 +2,7 @@
 ## Installation
 
 ```bash
-$ pip install prime_jl6576
+$ pip install prime_qg2218
 ```
 
 ## Usage
