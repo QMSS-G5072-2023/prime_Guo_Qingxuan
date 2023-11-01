@@ -1,10 +1,15 @@
 # prime_Guo_Qingxuan
+## Installation
 
-# Installation
-$ pip install prime_qg2218
-# Usage
-TODO
-# Contributing
+```bash
+$ pip install prime_jl6576
+```
+
+## Usage
+
+- TODO
+
+## Contributing
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
 # License
