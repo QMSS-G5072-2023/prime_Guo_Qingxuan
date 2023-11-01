@@ -3,15 +3,7 @@ prime_qg2218
 ============
 
 
-.. image:: https://img.shields.io/pypi/v/prime_qg2218.svg
-        :target: https://pypi.python.org/pypi/prime_qg2218
 
-.. image:: https://img.shields.io/travis/NicoleQXGuo/prime_qg2218.svg
-        :target: https://travis-ci.com/NicoleQXGuo/prime_qg2218
-
-.. image:: https://readthedocs.org/projects/prime-qg2218/badge/?version=latest
-        :target: https://prime-qg2218.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
 
 
 
